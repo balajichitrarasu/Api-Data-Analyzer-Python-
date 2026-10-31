@@ -1,7 +1,6 @@
 # API Data Analyzer & Report Generator
 
-A Python tool that fetches user and post data from a public REST API, analyzes
-posting activity, and exports a ranked CSV report.
+A Python tool that fetches user and post data from a public REST API, analyzes posting activity, and exports a ranked CSV report.
 
 ## Features
 - Object-oriented design with a reusable `APIDataAnalyzer` class
